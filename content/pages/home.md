@@ -32,5 +32,5 @@ I have not had this web page for too long, so, this list is not too extensive, b
 ## < 2014
 * I'd love to have memory that served be this well, but I have a few points
 * considered venturing into IT Law
-* studied how to us IT for business
+* studied how to use IT for business
 * taught myself a lot about software development and Linux
