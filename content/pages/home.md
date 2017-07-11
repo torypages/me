@@ -16,17 +16,17 @@ I have not had this web page for too long, so, this list is not too extensive, b
 * Flask
 * AWS (EC2, EBS, Kinesis, SQS, Cloud Formation, Cloud Watch, RDS)
 * Meetups
-  ** [Toronto Apache Spark #20](https://www.meetup.com/Toronto-Apache-Spark/events/239840844/)
-  ** [Get Your Feet Wet with H2O](https://www.meetup.com/Toronto-Artificial-Intelligence-Deep-Learning/events/240092772/)
-  ** [Predictive vs. Causal Analysis - Unique Data Science Needs in the Social Sector](https://www.meetup.com/DataforGood/events/239552872/)
-  ** [Lesson 2: Introductory workshop to TensorFlow](https://www.meetup.com/Advanced-Spark-DeepLearni-ng-and-TensorFlow-Meetup/events/240595646/)
-  ** [AI workshop - TensorFlow intro](https://www.meetup.com/Toronto-AI/events/240567493/)
-  ** [Lesson 3: Machine Learning in TensorFlow](https://www.meetup.com/Advanced-Spark-DeepLearni-ng-and-TensorFlow-Meetup/events/240595706/)
- * Completed online learning
-   ** [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
-   ** [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data)
- * Some scala
- * Passionate discussions about build processes and repository architecture
+  * [Toronto Apache Spark #20](https://www.meetup.com/Toronto-Apache-Spark/events/239840844/)
+  * [Get Your Feet Wet with H2O](https://www.meetup.com/Toronto-Artificial-Intelligence-Deep-Learning/events/240092772/)
+  * [Predictive vs. Causal Analysis - Unique Data Science Needs in the Social Sector](https://www.meetup.com/DataforGood/events/239552872/)
+  * [Lesson 2: Introductory workshop to TensorFlow](https://www.meetup.com/Advanced-Spark-DeepLearni-ng-and-TensorFlow-Meetup/events/240595646/)
+  * [AI workshop - TensorFlow intro](https://www.meetup.com/Toronto-AI/events/240567493/)
+  * [Lesson 3: Machine Learning in TensorFlow](https://www.meetup.com/Advanced-Spark-DeepLearni-ng-and-TensorFlow-Meetup/events/240595706/)
+* Completed online learning
+  * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
+  * [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data)
+* Some scala
+* Passionate discussions about build processes and repository architecture
 
 ## 2016
 
