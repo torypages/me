@@ -31,6 +31,8 @@ I have not had this web page for too long, so, this list is not too extensive, b
     * [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data)
 * Some scala
 * Passionate discussions about build processes and repository architecture
+* Docker
+* CircleCI
 
 ## 2016
 
