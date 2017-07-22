@@ -24,6 +24,8 @@ I have not had this web page for too long, so, this list is not too extensive, b
     * [Lesson 3: Machine Learning in TensorFlow](https://www.meetup.com/Advanced-Spark-DeepLearni-ng-and-TensorFlow-Meetup/events/240595706/)
     * [PyData Pandas Hands-On Session](https://www.meetup.com/pydatato/events/240941576/)
     * [Machine Intelligence Ethics](https://www.meetup.com/MachineIntelligence/events/241024310/)
+    * [Lesson 4: Deployment of Kubernetes](https://www.meetup.com/Advanced-Spark-DeepLearni-ng-and-TensorFlow-Meetup/events/240595741/)
+    * [Facial Recognition in Python with OpenCV & Watson Visual Recognition](https://www.meetup.com/Cognitive-Toronto/events/240784383/)
 * Completed online learning
     * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
     * [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data)
